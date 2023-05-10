@@ -1,0 +1,11 @@
+{
+  "name": "maljs-base",
+  "packageManager": "yarn@4.0.0-rc.42",
+  "devDependencies": {
+    "@yarnpkg/sdks": "^3.0.0-rc.42",
+    "jest": "^29.5.0",
+    "prettier": "^2.8.8",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  }
+}
